@@ -1,0 +1,4 @@
+name: RemoveOriginal
+version: '${project.version}'
+main: xyz.oreodev.removeoriginal.RemoveOriginal
+api-version: 1.19
